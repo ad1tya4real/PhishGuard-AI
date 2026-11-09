@@ -1,13 +1,13 @@
-# 🛡️ PhishGuard AI – AI-Based Phishing URL Detection
+# 🛡️ PhishGuard AI – AI-Based Email Phishing Detection
 
 ## 📌 Project Overview
-PhishGuard AI is a Python-based cybersecurity project designed to identify potentially malicious URLs using machine learning techniques. It aims to help users recognize phishing websites and improve online security awareness.
+PhishGuard AI is a cybersecurity project designed to detect phishing emails using Artificial Intelligence and Machine Learning techniques. It analyzes email content to identify suspicious messages that may attempt to steal sensitive information or deceive users.
 
 ## 🚀 Features
-- Phishing URL detection
-- URL classification
-- Interactive Streamlit interface
-- Machine learning-based analysis
+- Email phishing detection
+- Analysis of suspicious email content
+- Classification of emails as phishing or legitimate
+- Interactive user interface
 
 ## 🛠️ Technologies Used
 - Python
@@ -16,43 +16,21 @@ PhishGuard AI is a Python-based cybersecurity project designed to identify poten
 - NumPy
 - Streamlit
 
-## 📂 Project Structure
-```text
-PhishGuard-AI/
-├── app.py
-├── README.md
-└── requirements.txt
-```
+## 🎯 Objective
+To develop an intelligent email phishing detection system that helps users identify potentially malicious emails and improve email security awareness.
 
 ## ⚙️ Installation
-
-1. Clone the repository:
 ```bash
 git clone YOUR_REPOSITORY_URL
-```
-
-2. Navigate to the project folder:
-```bash
 cd PhishGuard-AI
-```
-
-3. Install dependencies:
-```bash
 pip install -r requirements.txt
-```
-
-4. Run the application:
-```bash
 streamlit run app.py
 ```
-
-## 🎯 Objective
-To explore how Artificial Intelligence and Machine Learning can be applied to cybersecurity for identifying phishing URLs.
 
 ## 👨‍💻 Author
 Aditya Gaikwad
 
-**GitHub:** https://github.com/ad1tya4real
+GitHub: https://github.com/ad1tya4real
 
 ---
-*Built as a cybersecurity learning project.*
+*Developed as a cybersecurity and machine learning project.*
